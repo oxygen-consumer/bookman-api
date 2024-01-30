@@ -8,6 +8,7 @@
     <UserSecretsId>30f6280e-5dd4-4dd6-a039-8cc51dfcdbbf</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
+    <ContainerRepository>bookman-api</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>
